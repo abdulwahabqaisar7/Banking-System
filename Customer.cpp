@@ -19,4 +19,3 @@ string Customer::getName() const
 {
     return name;
 }
-#include "Customer.h"
